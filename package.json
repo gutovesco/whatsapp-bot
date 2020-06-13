@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@open-wa/wa-automate": "^1.9.71",
     "sulla": "^2.3.14"
   }
 }
