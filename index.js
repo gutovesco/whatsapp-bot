@@ -79,19 +79,19 @@ function start(client) {
           case '1' : 
             setTimeout(function(){ client.sendText(message.from, 'Maravilha, estou montando sua playlist...'); }, 1000);
             setTimeout(function(){ client.sendText(message.from, 'Quase pronto...'); }, 4000);
-            setTimeout(function(){ client.sendText(message.from, 'Prontinho! Agora basta clicar no link abaixo: \n link'); }, 6000);
+            setTimeout(function(){ client.sendText(message.from, 'Prontinho! Agora basta clicar no link abaixo: \n https://frequenciaccr.web.app/#/menu'); }, 6000);
             break;
 
           case '2' : 
             setTimeout(function(){ client.sendText(message.from, 'Maravilha, estou montando sua playlist...'); }, 1000);
             setTimeout(function(){ client.sendText(message.from, 'Quase pronto...'); }, 4000);
-            setTimeout(function(){ client.sendText(message.from, 'Prontinho! Agora basta clicar no link abaixo: \n link'); }, 6000);
+            setTimeout(function(){ client.sendText(message.from, 'Prontinho! Agora basta clicar no link abaixo: \n https://frequenciaccr.web.app/#/menu'); }, 6000);
             break;
 
             case '3' : 
               setTimeout(function(){ client.sendText(message.from, 'Maravilha, estou montando sua playlist...'); }, 1000);
               setTimeout(function(){ client.sendText(message.from, 'Quase pronto...'); }, 4000);
-              setTimeout(function(){ client.sendText(message.from, 'Prontinho! Agora basta clicar no link abaixo: \n link'); }, 6000);
+              setTimeout(function(){ client.sendText(message.from, 'Prontinho! Agora basta clicar no link abaixo: \n https://frequenciaccr.web.app/#/menu'); }, 6000);
               break;  
 
             case '4' : client.sendText(message.from, 'Olá, o que você deseja fazer? \n1 - Ouvir música \n2 - Reportar acidente');
